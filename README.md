@@ -2,6 +2,7 @@
 <div align="center">
   <h1>Johnson Aboagye</h1>
   <p>ALX Backend learner • Aspiring Backend Engineer • AI-driven projects for community impact</p>
+  <p>Information Technology Instructor | IT Support | Virtual Assistant | Technical Writer | Aspiring Cyber Security Analyst </p>
 </div>
 
 <hr>
